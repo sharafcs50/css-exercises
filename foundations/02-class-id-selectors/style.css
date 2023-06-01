@@ -1,0 +1,16 @@
+p {
+	background-color: pink;
+	font-size: 28px;
+}
+
+.number2 {
+	color: blue;
+	font-size: 34px;
+	font-weight: bold;
+}
+
+.number4 {
+	background-color: rgb(35, 234, 35);
+	font-weight: bold;
+	font-size: 28px;
+}
